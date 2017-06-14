@@ -1,0 +1,23 @@
+/* reset */
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#header {
+    height: 200px;
+    background-color: #fdffdf;
+}
+
+#content {
+    max-width: 960px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #f3d7b5;
+}
+
+#footer {
+    height: 200px;
+    background-color: #daf9ca;
+}
