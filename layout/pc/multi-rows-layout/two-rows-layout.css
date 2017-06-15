@@ -1,0 +1,20 @@
+/* reset */
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.sub {
+    width: 100px;
+    height: 600px;
+    float: left;
+    background-color: #fdffdf;
+}
+
+
+.main {
+    margin-left: 100px;
+    height: 600px;
+    background-color: #daf9ca;
+}
