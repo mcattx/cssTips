@@ -1,0 +1,27 @@
+/* reset */
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.sub {
+    width: 100px;
+    height: 600px;
+    float: left;
+    background-color: #fdffdf;
+}
+
+.extra {
+    width: 100px;
+    height: 600px;
+    float: right;
+    background-color: #f3d7b5;
+}
+
+.main {
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 600px;
+    background-color: #daf9ca;
+}

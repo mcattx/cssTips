@@ -1,0 +1,30 @@
+/* reset */
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.sub, .extra {
+    position: absolute;
+    top: 0;
+    width: 100px;
+    height: 600px;
+}
+
+.sub {
+    left: 0;
+    background-color: #fdffdf;
+}
+
+.extra {
+    right: 0;
+    background-color: #f3d7b5;
+}
+
+.main {
+    margin: 0 100px;
+    height: 600px;
+    background-color: #daf9ca;
+}
