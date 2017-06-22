@@ -1,0 +1,30 @@
+/* reset */
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.main-wrap {        
+    float: left;       
+    width: 100%;   
+ }  
+.sub {       
+    float: left;        
+    width: 100px;   
+    height: 600px;     
+    margin-left: -100%; 
+    background-color: #fdffdf;  
+}   
+.extra {        
+    float: left;        
+    width: 100px;        
+    margin-left: -100px; 
+    height: 600px;
+    background-color: #f3d7b5;
+ }
+.main {    
+    margin: 0 100px 0 100px;
+    height: 600px;
+    background-color: #daf9ca;
+}
